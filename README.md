@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;AEM+Developer;Building+AI+%26+Multi-Agent+Systems;Agentic+AI+Learner" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=C3110C&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;AEM+Developer;Building+AI+%26+Multi-Agent+Systems;Agentic+AI+Learner" alt="Typing SVG" />
   </a>
 </p>
 
@@ -47,14 +47,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jayesh033&show_icons=true&theme=default&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayesh033&theme=default&hide_border=true" height="170"/>
-</p>
-
----
 
 ## 🎯 Current Focus
 
