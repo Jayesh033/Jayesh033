@@ -1,16 +1,64 @@
-## Hi there 👋
+<h1 align="center">Hey There 👋, I'm Jayesh Revekar</h1>
+<h3 align="center">Software Developer at Bajaj Finserv | Full Stack Engineer | AI Enthusiast</h3>
 
-<!--
-**Jayesh033/Jayesh033** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer;AEM+Developer;Building+AI+%26+Multi-Agent+Systems;Agentic+AI+Learner" alt="Typing SVG" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 💼 Software Developer at **Bajaj Finserv**
+- 🚀 Passionate about building scalable **Full Stack Web Applications**
+- 🤖 Currently exploring **Agentic AI Development**
+- 🧠 Interested in **AI, Multi-Agent Systems, and Enterprise Web Platforms**
+- 🌱 Continuously learning and building impactful systems
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+</p>
+
+### ⚙️ Frameworks & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=react,spring,nodejs,docker" />
+</p>
+
+- Adobe Experience Manager (AEM)
+- REST APIs
+- Enterprise CMS Development
+
+---
+
+## 🚀 What I Do
+
+- 🔹 Full Stack Development (Frontend + Backend)
+- 🔹 Enterprise CMS Solutions using AEM
+- 🔹 Scalable Backend Systems with Spring Boot
+- 🔹 AI & Multi-Agent System Exploration
+- 🔹 Dockerized Application Deployment
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jayesh033&show_icons=true&theme=default&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jayesh033&theme=default&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🎯 Current Focus
+
+```text
+→ Mastering Agentic AI Systems  
+→ Designing Multi-Agent Architectures  
+→ Building Production-Ready Full Stack Applications  
